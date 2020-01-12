@@ -1,11 +1,1 @@
-{ 
-  "bots":[ 
-    { 
-    "name":"vic",
-    "connected":1,
-    "online":1,
-    "mouseLock":0,
-    "keyboardLock":0
-    }
-  ]
-}
+{"bots": [{"name": "vic", "connected": 1, "online": 1, "mouseLock": 0, "keyboardLock": 0}, {"name": "Mark Jacobsen", "connected": 1, "online": 1, "mouseLock": 0, "keyboardLock": 0}]}
